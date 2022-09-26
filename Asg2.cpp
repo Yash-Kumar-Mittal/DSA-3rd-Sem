@@ -6,7 +6,7 @@
 // While traversing a single-circular linked list, which condition establishes that the traversing element/variable has reached the first element
 
 //[Ans1]
-// Lets take an example and create a basic circular linked list
+// Lets Create a circular linked list to understand it
 #include <iostream>
 using namespace std;
 class Node
